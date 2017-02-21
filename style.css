@@ -1,0 +1,76 @@
+h1{
+		font-size: 48px;
+		text-align:left;
+}
+
+h2{
+		color:red;
+		font-size: 32px;
+		text-align:left;
+}
+
+h3{
+		color:red;
+		font-size: 32px;
+		text-align:center;
+		font-style:italic;
+		font-style:bold;
+}
+
+h4 {
+		color:red;
+		font-size:16px;
+		text-align:left;
+		font-style:italic;
+		font-style:bold;
+}
+/*center image*/
+.Latinos {
+	 	   width:700px;
+        margin:0 auto; 
+  }
+/*still trying to figure out how to center image*/
+#text {
+	margin:5px;
+	border: 10px;
+	/*width:100%;*/
+	padding:25px;
+	height:auto;
+	max-width:100%;
+	background-size: 100%;
+	text-align: left;
+}
+
+.thumb {
+   	 width: 100%;  
+     display:inline-block;
+} 
+.thumbs {
+  width:720px;
+  margin: 0 auto;
+ }
+.thumbs figure{
+  float:left;
+  width:200px;
+  margin:0 20px;
+}
+
+/*still trying to figure out how to put text under image*/
+
+.phosub2 {text-align: left;
+        font-style: italic;
+        margin top: 0px;
+        font-size: 13px;
+        max-width: 200px;
+        display:inline-block;
+        white-space:nowrap;
+        display:inline;
+        }
+ 
+#thumbs a {
+   vertical-align: top;
+   display: inline-block;
+   display: inline;
+   zoom: 1;
+}
+
